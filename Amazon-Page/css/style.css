@@ -1,0 +1,175 @@
+/* Your styles here */
+
+body {
+  background-color: rgb(233, 237, 238);
+
+  font-family: "Montserrat", sans-serif;
+}
+
+.banner1 {
+  height: 70px;
+  margin-right: -4;
+  margin-inline: 11px;
+  text-align: center;
+  margin-inline: auto;
+  background: rgb(34, 47, 63);
+  text-align: left;
+}
+
+.logo {
+  height: 50%;
+  padding-left: 17px;
+  padding-top: 6px;
+}
+
+.spazi {
+  padding-top: 6px;
+}
+
+.banner2 {
+  height: 40px;
+  margin-right: -4;
+  margin-inline: 11px;
+  margin-inline: auto;
+  background: rgb(54, 71, 89);
+  text-align: left;
+  display: inline-flex;
+  width: 100%;
+  padding-top: 16px;
+}
+
+.menu {
+  color: white;
+  padding-left: 35px;
+}
+
+.banner3 {
+  height: 46px;
+  margin-right: -4;
+  margin-inline: 35px;
+  background: rgb(245, 102, 0);
+  text-align: center;
+}
+
+.testo1 {
+  color: white;
+  padding-top: 1%;
+}
+
+.testo2 {
+  color: white;
+  padding-top: 4%;
+  font-size: 34px;
+}
+
+.testo3 {
+  color: white;
+  padding-top: 14px;
+}
+
+.banner4 {
+  height: 216px;
+  margin-right: -4;
+  margin-inline: 35px;
+  background: rgb(48, 110, 99);
+  text-align: center;
+
+  background-image: url("../images/bg-image.png");
+}
+.banner4a {
+  margin-right: -4;
+  margin-inline: 35px;
+  background: white;
+  text-align: left;
+
+  display: inline-block;
+  width: 1449px;
+}
+
+.banner5 {
+  height: auto;
+  margin-right: -4;
+  margin-inline: 35px;
+  background: white;
+
+  contain: cover;
+}
+
+.contenitore {
+  text-align: center;
+}
+
+.contenitore1 {
+  text-align: left;
+}
+
+.testoceleste {
+  color: rgb(63, 141, 155);
+  font-size: 13px;
+  font-weight: bold;
+  margin-left: 6px;
+}
+
+.spazio {
+  padding-top: 13px;
+  padding-left: 10px;
+  font-weight: bold;
+}
+.foto {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.back {
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+}
+
+.back a {
+  text-decoration: none;
+  color: white;
+  text-decoration: underline;
+}
+.banner6 {
+  height: 40px;
+  margin-right: -4;
+  margin-inline: 11px;
+  margin-inline: auto;
+  background: rgb(54, 71, 89);
+}
+
+.banner7 {
+  height: 185px;
+  margin-right: -4;
+  margin-inline: 11px;
+  text-align: center;
+  margin-inline: auto;
+  background: rgb(34, 47, 63);
+  text-align: center;
+}
+
+.logo2 {
+  height: 34px;
+  margin-top: 83px;
+}
+
+.testonero {
+  color: black;
+}
+
+.sequenzafoto {
+  border-radius: 41px;
+  height: 355px;
+  width: 22%;
+  box-shadow: 0 6px 12px rgb(0 0 0/30%);
+  margin-left: 2.5%;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+  object-fit: cover;
+}
+
+.marginesuperiore {
+  margin-top: 35px;
+}
